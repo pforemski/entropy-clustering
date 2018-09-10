@@ -2,8 +2,7 @@
 
 Implementation of the Entropy Clustering algorithm for IPv6 networks, introduced in the ACM IMC'18 conference paper:
 
-> [Clusters in the Expanse: Understanding and Unbiasing IPv6 Hitlists](https://ipv6hitlist.github.io/)
-*Oliver Gasser, Quirin Scheitle, Paweł Foremski, Qasim Lone, Maciej Korczyński, Stephen D. Strowes, Luuk Hendriks, Georg Carle*
+> [Clusters in the Expanse: Understanding and Unbiasing IPv6 Hitlists](https://ipv6hitlist.github.io/), *Oliver Gasser, Quirin Scheitle, Paweł Foremski, Qasim Lone, Maciej Korczyński, Stephen D. Strowes, Luuk Hendriks, Georg Carle*, ACM Internet Measurement Conference 2018, Boston, MA, USA
 
 See [ipv6hitlist.github.io](https://ipv6hitlist.github.io/) for more details.
 
