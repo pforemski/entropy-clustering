@@ -6,6 +6,8 @@
 # Licensed under GNU GPL v3
 #
 
+from __future__ import print_function
+
 import sys
 import matplotlib.pyplot as plt
 from matplotlib import cm
@@ -113,6 +115,6 @@ for y,cluster in enumerate(clusters):
 #plt.tight_layout()
 if args.save:
 	plt.savefig(args.save)
-	print "Saved to %s" % (args.save)
+	print("Saved to", (args.save))
 else:
 	plt.show()
