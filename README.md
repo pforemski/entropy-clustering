@@ -10,13 +10,13 @@ See [ipv6hitlist.github.io](https://ipv6hitlist.github.io/) for more details.
 
 Install [Go](https://www.golang.org/) and the required packages:
 ```
-go get github.com/pforemski/gouda
+go get github.com/pforemski/gouda/...
 go get github.com/fatih/color
 ```
 
 Also, if you want to plot the results using this code, install Matplotlib, e.g.
 ```
-sudo apt install python-matplotlib
+sudo apt-get install python-matplotlib
 ```
 
 # USAGE
