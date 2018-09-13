@@ -15,6 +15,11 @@ import matplotlib.gridspec as gridspec
 import matplotlib.ticker as plticker
 import numpy as np
 
+# restore matplotlib 1 style
+import matplotlib.style
+import matplotlib as mpl
+mpl.style.use('classic')
+
 import argparse
 p = argparse.ArgumentParser()
 p.add_argument('--save')
