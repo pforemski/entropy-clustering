@@ -4,7 +4,9 @@ Implementation of the Entropy Clustering algorithm for IPv6 networks, introduced
 
 > [Clusters in the Expanse: Understanding and Unbiasing IPv6 Hitlists](https://ipv6hitlist.github.io/), *Oliver Gasser, Quirin Scheitle, Paweł Foremski, Qasim Lone, Maciej Korczyński, Stephen D. Strowes, Luuk Hendriks, Georg Carle*, ACM Internet Measurement Conference 2018, Boston, MA, USA
 
-See [ipv6hitlist.github.io](https://ipv6hitlist.github.io/) for more details.
+See [ipv6hitlist.github.io](https://ipv6hitlist.github.io/) for more details and output examples, as the one below:
+
+![entropy clustering example](https://ipv6hitlist.github.io/eip/clusters-all-full-slash32-crop.png)
 
 # PREREQUISITES
 
